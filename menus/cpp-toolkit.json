@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle cpp-toolkit",
+        "command": "cpp-toolkit:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+            {
+              "label": "cpp-toolkit",
+              "submenu": [
+                {
+                  "label": "SwitchHeader",
+                  "command": "cpp-toolkit:switchheader"
+                },
+                {
+                  "label": "NewFile",
+                  "command": "cpp-toolkit:newfile"
+                }
+              ]
+          }
+      ]
+    }
+  ]
+}
