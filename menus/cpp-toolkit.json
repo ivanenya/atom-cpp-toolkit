@@ -21,6 +21,10 @@
                 {
                   "label": "NewFile",
                   "command": "cpp-toolkit:newfile"
+                },
+                {
+                  "label": "Format",
+                  "command": "cpp-toolkit:format"
                 }
               ]
           }

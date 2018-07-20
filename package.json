@@ -6,7 +6,9 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "cpp-toolkit:switchheader"
+      "atom-text-editor": "cpp-toolkit:switchheader",
+      "atom-text-editor": "cpp-toolkit:newfile",
+      "atom-text-editor": "cpp-toolkit:format"
   },
   "repository": "https://github.com/ivanenya/atom-cpp-toolkit",
   "license": "MIT",
