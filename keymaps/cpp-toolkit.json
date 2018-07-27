@@ -1,6 +1,9 @@
 {
   "atom-text-editor": {
       "alt-a": "cpp-toolkit:switchheader",
-      "alt-l": "cpp-toolkit:tolower"
+      "alt-l": "cpp-toolkit:tolower",
+      "alt-o": "cpp-toolkit:openproto",
+      "alt-m": "cpp-toolkit:movepane",
+      "alt-b": "cpp-toolkit:lastfile"
   }
 }

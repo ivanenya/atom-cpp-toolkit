@@ -29,7 +29,15 @@
                 {
                   "label": "ToLower",
                   "command": "cpp-toolkit:tolower"
-                }
+               },
+               {
+                 "label": "LastFile",
+                 "command": "cpp-toolkit:lastfile"
+               },
+               {
+                 "label": "MovePane",
+                 "command": "cpp-toolkit:movepane"
+               }
               ]
           }
       ]
