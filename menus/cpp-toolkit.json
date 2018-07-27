@@ -25,6 +25,10 @@
                 {
                   "label": "Format",
                   "command": "cpp-toolkit:format"
+                },
+                {
+                  "label": "ToLower",
+                  "command": "cpp-toolkit:tolower"
                 }
               ]
           }

@@ -1,5 +1,6 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-o": "cpp-toolkit:toggle"
+  "atom-text-editor": {
+      "alt-a": "cpp-toolkit:switchheader",
+      "alt-l": "cpp-toolkit:tolower"
   }
 }
