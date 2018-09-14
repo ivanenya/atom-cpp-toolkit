@@ -4,6 +4,7 @@
       "alt-l": "cpp-toolkit:tolower",
       "alt-o": "cpp-toolkit:openproto",
       "alt-m": "cpp-toolkit:movepane",
+      "alt-t": "cpp-toolkit:format",
       "alt-b": "cpp-toolkit:lastfile"
   }
 }
