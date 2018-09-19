@@ -110,6 +110,15 @@ enum MMBizUVStatOss
     int GetStat( uint32_t busi_type, const std::string &key, mmbizuvstat::UVStatInfo *info, uint64_t *piVersion );
     int SetStat( uint32_t busi_type, const std::string &key, const mmbizuvstat::UVStatInfo &info, uint64_t iVersion );
 
+    a =  b;
+    c += x;
+    if ( a &= b ) a = 
+    {
+
+    }
+    int a = 1;
+    int b = 2;
+
 // for agent
 // for worker
 };
